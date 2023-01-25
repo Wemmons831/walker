@@ -1,0 +1,14 @@
+Debug for drawing limb
+
+DrawLineEx(v1, v2, 5.0f, BLUE);
+DrawLineEx(v1, v4, 5.0f, RED);
+DrawLineEx(v4 ,v3 ,5.0f ,BLUE);
+DrawLineEx(v2 ,v3, 5.0f, RED);
+DrawLineEx(v1, v3, 5.0f, GREEN);
+
+
+DrawLineEx(v1, v4, 5.0f, BLACK);
+DrawLineEx(v1, v2, 5.0f, GRAY);
+DrawLineEx(v4, v3, 5.0f, GRAY);
+DrawLineEx(v2, v3, 5.0f, BLACK);
+DrawLineEx(v1, v3, 5.0f, GREEN);
